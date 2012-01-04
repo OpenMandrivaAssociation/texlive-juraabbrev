@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-juraabbrev
 Version:	20070108
-Release:	1
+Release:	2
 Summary:	Abbreviations for typesetting (German) juridical documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/juraabbrev

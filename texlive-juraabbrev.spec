@@ -54,3 +54,17 @@ in the document.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar makeindex tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20070108-2
++ Revision: 752937
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20070108-1
++ Revision: 718761
+- texlive-juraabbrev
+- texlive-juraabbrev
+- texlive-juraabbrev
+- texlive-juraabbrev
+

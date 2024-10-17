@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Abbreviations for typesetting (German) juridical documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/juraabbrev
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/juraabbrev
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/juraabbrev.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/juraabbrev.doc.r%{version}.tar.xz
